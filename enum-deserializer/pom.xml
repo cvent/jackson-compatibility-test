@@ -27,7 +27,7 @@
         <dependency>
             <groupId>org.junit.vintage</groupId>
             <artifactId>junit-vintage-engine</artifactId>
-            <version>4.12.3</version>
+            <version>5.13.4</version>
             <scope>test</scope>
         </dependency>
 
